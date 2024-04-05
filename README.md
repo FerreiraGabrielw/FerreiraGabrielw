@@ -5,6 +5,8 @@
 
 - 🔭 Tenho experiência em desenvolvimento de relatórios utilizando ferramentas de BI **(PowerBI, Tableau, Data Studio)**
 
+- 👨‍💻 Atualmente estou estudando Python aplicado a análise de dados  
+
 - 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
 
 - 👨‍💻 Me contate em **https://www.linkedin.com/in/gabrielferreira2001/**
