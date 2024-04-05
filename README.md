@@ -13,11 +13,6 @@
 
 - 📫Ou por **ferreira.gabrielw@gmail.com**
 
-
-
-
-
-
 - 💬 "Não há vento favorável para quem não sabe para onde vai." **- Sêneca**
 
 
