@@ -1,9 +1,18 @@
-&lt;h1 align="center">Olá 👋, eu sou Gabriel Ferreira&lt;/h1>
-&lt;h3 align="center">Apaixonado por dados e com experiência em transformar informações em insights estratégicos. Explore meus projetos e saiba mais sobre minha jornada no meu &lt;a href="https://ferreiragabrielw.github.io/portfolio-gabriel/">Portfólio Online&lt;/a>.&lt;/h3>
+<h1 align="center">Olá 👋, eu sou Gabriel Ferreira</h1>
 
-💼 Analista Sênior de Gestão de Dados com mais de 3 anos de experiência em soluções analíticas e governança de dados na América Latina.
-🎓 Formação em Engenharia Mecânica com pós-graduação em Ciência de Dados.
-💻 Atualmente liderando projetos de dados complexos e de alto impacto na Marsh McLennan.
-🛠️ Expertise em Data Analytics, Ciência de Dados, BI, Automação de Processos, Governança de Dados e Cloud.
-💬 Conecte-se comigo no &lt;a href="https://www.linkedin.com/in/gabrielferreira2001/">LinkedIn&lt;/a> para saber mais sobre minha experiência e projetos.
-📫 Contato: ferreira.gabrielw@gmail.com
+<h3 align="center">Data Analyst | Data Scientist | Business Intelligence</h3>
+
+<p align="center">
+Sou um profissional orientado por dados, com experiência sólida em transformar informações em decisões estratégicas. Minha trajetória conecta Engenharia, BI e Ciência de Dados, sempre com foco em gerar impacto nos negócios por meio de análises avançadas, visualizações inteligentes e soluções baseadas em dados.
+</p>
+
+<p align="center">
+🚀 Atualmente atuo como Analista Sênior de Gestão de Dados na Marsh McLennan.<br>
+📚 Pós-graduando em Ciência de Dados.<br>
+🌐 Confira meu portfólio: <a href="https://ferreiragabrielw.github.io/portfolio-gabriel/">https://ferreiragabrielw.github.io/portfolio-gabriel/</a><br>
+🔗 Conecte-se comigo no LinkedIn: <a href="https://www.linkedin.com/in/gabrielferreira2001/">https://www.linkedin.com/in/gabrielferreira2001/</a><br>
+✉️ Contato: ferreira.gabrielw@gmail.com
+</p>
+
+---
+
