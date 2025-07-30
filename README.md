@@ -8,7 +8,7 @@ Sou um profissional orientado por dados, com experiência sólida em transformar
 
 <p align="left">
 - Atualmente atuo como Analista de Dados Sênior na Marsh McLennan.<br>
--  Pós-graduando em Ciência de Dados.<br>
+-  Pós-graduado em Ciência de Dados.<br>
 - Confira meu portfólio: <a href="https://ferreiragabrielw.github.io/portfolio-gabriel/">https://ferreiragabrielw.github.io/portfolio-gabriel/</a><br>
 - Conecte-se comigo no LinkedIn: <a href="https://www.linkedin.com/in/gabrielferreira2001/">https://www.linkedin.com/in/gabrielferreira2001/</a><br>
 - Contato: ferreira.gabrielw@gmail.com
