@@ -1,17 +1,17 @@
 <h1 align="center">Gabriel Ferreira</h1>
 
-<h3 align="center">Data Analyst | Data Scientist | Business Intelligence</h3>
+<h3 align="center">Data Scientist | Data Analyst | Business Intelligence</h3>
 
 <p align="center">
-Sou um profissional orientado por dados, com experiência sólida em transformar informações em decisões estratégicas. Minha trajetória conecta Engenharia, BI e Ciência de Dados, sempre com foco em gerar impacto nos negócios por meio de análises avançadas, visualizações inteligentes e soluções baseadas em dados.
+I am a data-driven professional with solid experience in transforming information into strategic decisions. My background connects Engineering, BI, and Data Science, always focused on generating business impact through advanced analytics, intelligent visualizations, and data-driven solutions.
 </p>
 
 <p align="left">
-- Atualmente atuo como Analista de Dados Sênior na Marsh McLennan.<br>
--  Pós-graduado em Ciência de Dados.<br>
-- Confira meu portfólio: <a href="https://ferreiragabrielw.github.io/portfolio-gabriel/">https://ferreiragabrielw.github.io/portfolio-gabriel/</a><br>
-- Conecte-se comigo no LinkedIn: <a href="https://www.linkedin.com/in/gabrielferreira2001/">https://www.linkedin.com/in/gabrielferreira2001/</a><br>
-- Contato: ferreira.gabrielw@gmail.com
+- Currently working as a Senior Data Analyst at Marsh McLennan.<br>
+-  Post-graduated in Data Science.<br>
+- Check out my portfolio: <a href="https://ferreiragabrielw.github.io/portfolio-gabriel/">https://ferreiragabrielw.github.io/portfolio-gabriel/</a><br>
+- Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/gabrielferreira2001/">https://www.linkedin.com/in/gabrielferreira2001/</a><br>
+- Contact: ferreira.gabrielw@gmail.com
 </p>
 
 ---
