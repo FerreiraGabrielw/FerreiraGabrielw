@@ -7,7 +7,6 @@ I am a data-driven professional with solid experience in transforming informatio
 </p>
 
 <p align="left">
-- Currently working as a Senior Data Analyst at Marsh McLennan.<br>
 -  Post-graduated in Data Science.<br>
 - Check out my portfolio: <a href="https://ferreiragabrielw.github.io/portfolio-gabriel/">https://ferreiragabrielw.github.io/portfolio-gabriel/</a><br>
 - Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/gabrielferreira2001/">https://www.linkedin.com/in/gabrielferreira2001/</a><br>
